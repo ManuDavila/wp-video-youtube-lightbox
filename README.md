@@ -3,9 +3,7 @@
 <li>Contributors: manudg</li>
 <li>Donate link:<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=manudg_1%40msn%2ecom&lc=ES&item_name=manudg&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest" target="_blank">Donate</a></li>
 <li>Tags: youtube, playlist, widget, lightbox, responsive, wordpress</li>
-<li>Requires at least: 3.2</li>
 <li>Tested up to: 4.1.1</li>
-<li>Stable tag: 4.1.1</li>
 <li>License: GPLv2 or later</li>
 <li>License URI: http://www.gnu.org/licenses/gpl-2.0.html</li>
 </ul>

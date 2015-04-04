@@ -2,9 +2,7 @@
 Contributors: manudg
 Donate link:https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=manudg_1%40msn%2ecom&lc=ES&item_name=manudg&no_note=0&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHostedGuest
 Tags: youtube, playlist, widget, lightbox, responsive
-Requires at least: 3.2
 Tested up to: 4.1.1
-Stable tag: 4.1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
